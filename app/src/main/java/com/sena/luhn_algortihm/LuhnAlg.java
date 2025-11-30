@@ -16,7 +16,7 @@ public class LuhnAlg {
     public static void main(String[] args) {
 
         Scanner scn = new Scanner(System.in);
-        System.out.print("Enter your 16-digit credit card number: ");
+        System.out.print("Enter your 16 digit credit card number: ");
         String no = scn.next();
 
 
